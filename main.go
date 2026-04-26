@@ -21,7 +21,7 @@ func init() {
 }
 
 // Version is the current version of the application
-const Version = "2.1.0"
+const Version = "2.1.1"
 
 func main() {
 	// Parse command-line flags
